@@ -1,0 +1,47 @@
+.body{
+    background-color: rgb(9, 9, 49);
+    margin: 100px;
+}
+h1{
+    color: rgba(253, 253, 0, 0.767);
+     text-align: center;
+}
+.green{
+    color: green;
+}
+p{
+    text-align: center;
+    color: white;
+}
+table, th, td{
+    border: 1px solid yellow;
+    padding: 0%;
+    margin: 0%;
+}
+th, td{
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+table{
+    border-collapse: collapse;
+}
+.planeta{
+    width: 280px;
+}
+.merkuriy{
+    width: 700px;
+}
+.label, input{
+    width: 1700px;
+    height: 40px;
+    border-radius: 15px;
+}
+button{
+    color: black;
+    border-radius: 30px;
+    background-color: yellow;
+    height: 40px;
+    width: 300px;
+    margin: 0px 0px 0px 730px;
+}
